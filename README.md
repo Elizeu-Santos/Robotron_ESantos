@@ -1,5 +1,8 @@
   <body>
     <h1>Curso de JavaScript: Manipulando o DOM, oferecido pela Alura</h1>
+    <p align="center">
+    <img src="img/robotronLogo.png" alt="logo">
+    </p>
     <p>Este é um curso que ensina como utilizar o JavaScript para manipular o DOM e tornar páginas web mais dinâmicas e interativas. Durante o curso, eu tive a oportunidade de utilizar o JavaScript para interagir com HTML e CSS, manipular dados, eventos e elementos da página, além de explorar e criar funções em JavaScript. O objetivo final do curso foi construir um projeto prático onde é possível aplicar todos os conceitos aprendido em aula.</p>
     <h2>Tópicos de aprendizado</h2>
     <p>Durante o curso de JavaScript: Manipulando o DOM:</p>
